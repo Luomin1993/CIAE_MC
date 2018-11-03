@@ -5,45 +5,53 @@
 The research group mainly engaged in Monte Carlo simulation of nuclear physics in the early years (1959-1989). Now we mainly study the intelligent algorithm related to Monte Carlo method, the heuristic algorithm of interdisciplinary, and the application in agent-based reinforcement learning environment.
 
 
-### Publication
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a list of the keywords we often refer to
 
-```markdown
-Syntax highlighted code block
+- Intelligent Algorithm based on Monte-Carlo;
+- Heuristic Algorithm from Physics;
+- Reinforcement Learning
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Researchers
+As a research lab, potential members are warmly welcomed to join us. Qualified candidates should have solid background on computer science, electronic engineering, mathematics, physics, or related majors. If you feel interested, please enclose a CV and don't hesitate to [contact us](luomincentos@ciae.ac.cn)!
 
 ### Researchers
 
 ![Image](xu.jpg)
-`Shuy.Xu`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
+`Shuy.Xu`:
+
+PhD Instructor/Researcher
+
+email:shuyxu at ciae dot ac dot cn.
+
+[personal page](http://xueshu.baidu.com/scholarID/CN-B5742XQJ)
 
 ![Image](pei.jpg)
-`Yongs.Pei`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
+`Luc.Pei`:
+
+PhD Instructor/Researcher
+
+email:pei1987 at ciae dot ac dot cn.
+
+[personal page](http://xueshu.baidu.com/scholarID/CN-BP75O51J)
 
 ![Image](wang.jpg)
-`Congq.Wang`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
+`Congq.Wang`:
+
+Master Instructor/Researcher
+
+email:zhongqwang at ciae dot ac dot cn.
+
+[personal page](http://xueshu.baidu.com/scholarID/CN-BH74SQEJ)
 
 ![Image](luo.jpg)
-`Minc.Luo`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
+`Minc.Luo`:
+
+Master Student
+
+email:luomincentos at ciae dot ac dot cn.
+
+[personal page](https://luomin1993.github.io/)
 
 
 
