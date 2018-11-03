@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+### Mente-Carlo Research Group of CIAE
 
-You can use the [editor on GitHub](https://github.com/Luomin1993/CIAE_MC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Logo](logo_mini.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The research group mainly engaged in Monte Carlo simulation of nuclear physics in the early years (1959-1989). Now we mainly study the intelligent algorithm related to Monte Carlo method, the heuristic algorithm of interdisciplinary, and the application in agent-based reinforcement learning environment.
 
-### Markdown
+
+### Publication
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,9 +29,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Researchers
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 ### Support or Contact
 
