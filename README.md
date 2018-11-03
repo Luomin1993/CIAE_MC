@@ -31,15 +31,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Researchers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Researchers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](xu.jpg)
+`Shuy.Xu`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
 
+![Image](pei.jpg)
+`Yongs.Pei`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](wang.jpg)
+`Congq.Wang`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](luo.jpg)
+`Minc.Luo`:Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luomin1993/CIAE_MC/settings). The name of this theme is saved in the Jekyll configuration file.
 
 
 
